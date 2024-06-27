@@ -1,0 +1,101 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.coverage
+.coverage.*
+.cache
+.pytest_cache/
+celerybeat-schedule
+db.sqlite3
+db.sqlite3-journal
+
+# If you are using PostgreSQL, MySQL, or other database configurations, ignore their specific files:
+*.pgdata
+*.db
+*.db-shm
+*.db-wal
+
+# Media files
+media/
+
+# Local settings
+local_settings.py
+
+# .env files
+.env
+
+# Docker
+*.docker
+*.swp
+.dockerignore
+.docker-compose.yml
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pycharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python virtual environments
+venv/
+env/
+ENV/
+venv.bak/
+ENV.bak/
+
+# System files
+*.bak
+*.swp
+*.swo
+*~
